@@ -1,0 +1,6 @@
+public class CalculateTotalPrice {
+    public static void add(double price , double total){
+
+        total = total + price;
+    }
+  }
